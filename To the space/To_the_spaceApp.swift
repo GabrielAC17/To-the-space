@@ -2,7 +2,7 @@
 //  To_the_spaceApp.swift
 //  To the space
 //
-//  Created by Chama User on 07/11/21.
+//  Created by Gabriel de Andrade Cordeiro on 07/11/21.
 //
 
 import SwiftUI
